@@ -7,3 +7,7 @@ in retrospect,I would have migrated earlier.
 function order(){
   order recieved;
 }
+
+function addproducts(){
+    product aaded
+}
